@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "SwiftFormat",
-        "repositoryURL": "https://github.com/nicklockwood/SwiftFormat",
+        "repositoryURL": "https://gitee.com/mirrors/swiftformat",
         "state": {
           "branch": null,
           "revision": "d1c8a16cc21a3dfc577fe5e881509501ed22d0ce",
